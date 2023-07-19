@@ -1,0 +1,7 @@
+This is the books text file.
+Here you will find all the books you have in your library.
+
+Book: Skenderbeu written by: Krist, Pages: 15, ISBN: SKJLFALJKFAS
+
+Book: PrilliThyer written by: Krist, Pages: 259, ISBN: LFKJASJLKAFS
+

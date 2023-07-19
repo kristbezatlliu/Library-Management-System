@@ -1,0 +1,9 @@
+This is the author text file.
+Here you will find all the authors you have in your library.
+
+Author: KristBezatlliu, Age: 21, Birthday: 30.10.2002
+
+Author: testest, Age: 21, Birthday: 30.10.2002
+
+Author: Ronaldo, Age: 21, Birthday: 30.10.2002
+
